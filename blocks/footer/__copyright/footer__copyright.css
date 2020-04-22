@@ -1,22 +1,17 @@
 .footer__copyright {
+  margin: 0;
   max-width: 186px;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
   line-height: 16px;
-  margin-top: 94px;
-}
+  margin-bottom: 0;
 
-@media screen and (max-width: 1023px) {
-  .footer__copyright {
-    margin-top: 90px;
-  }
 }
 
 @media screen and (max-width: 767px) {
   .footer__copyright {
-    display: flex;
-    flex-direction: column;
-    margin-top: 16px;
+   margin-top: 16px;
   }
 }
+

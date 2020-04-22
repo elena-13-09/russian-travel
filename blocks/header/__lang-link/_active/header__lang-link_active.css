@@ -11,7 +11,7 @@
   text-underline-position: under;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 767px) {
   .header__lang-link_active {
     width: 22px;
     height: 24px;
