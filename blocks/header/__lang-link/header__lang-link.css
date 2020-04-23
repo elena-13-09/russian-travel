@@ -9,6 +9,12 @@
   color: #FFFFFF;
 }
 
+@media screen and (min-width: 1024px) {
+  .header__lang-link:hover {
+    opacity: 0.8;
+  }
+  }
+
 @media screen and (max-width: 767px) {
   .header__lang-link {
     width: 22px;

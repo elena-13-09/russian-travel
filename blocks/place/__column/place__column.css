@@ -1,9 +1,4 @@
 .place__column {
-margin: 0 auto;
+margin: 0;
 }
 
-@media screen and (max-width: 767px) {
-.place__column {
-  margin-top: 32px;
-}
-}
