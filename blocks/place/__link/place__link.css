@@ -8,8 +8,7 @@
   color: #FFFFFF;
 }
 
-@media screen and (min-width: 1024px) {
-  .place__link:hover {
+.place__link:hover {
     opacity: 0.8;
   }
-}
+
