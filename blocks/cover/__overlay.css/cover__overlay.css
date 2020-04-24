@@ -12,9 +12,7 @@
   right: 0;
 }
 
-@media screen and (min-width: 1024px) {
-  .cover__overlay:hover {
-    background: rgba(42, 44, 47, .8);
-    transition: .5s ease-in;
-  }
+.cover__overlay:hover {
+  background: rgba(42, 44, 47, .8);
+  transition: .5s ease-in;
 }
