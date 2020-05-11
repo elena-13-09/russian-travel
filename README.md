@@ -1,6 +1,6 @@
 # Проект 3: Путешествие по России
 
-* https://github.com/elena-13-09/russian-travel
+* [Ссылка на проект](https://elena-13-09.github.io/russian-travel/index.html)
 
 ### Обзор
 * Интро
